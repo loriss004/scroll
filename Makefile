@@ -57,3 +57,4 @@ clean: ## Empty out the bin folder
 	@rm -rf build/bin
 #1
 #2
+#3
