@@ -61,3 +61,4 @@ clean: ## Empty out the bin folder
 #4
 #5
 #6
+#7
